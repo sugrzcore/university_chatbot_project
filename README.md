@@ -64,9 +64,12 @@ Server listening at http://localhost:3000
 ## Included Files
 
 * `server.js` – backend code
-* `chat.html` – frontend with chat box and model buttons
+* `chat_fronend.html` – frontend with chat box and model buttons
 * `package.json` – project dependencies
 * `README.md` – this file
 * `background.jpg` – background image (replace if you want)
+* `node_modules`
+* `CREDITS.MD` – Credits for the project
+* `HOW_TO_RUN.md` – Simplfied Version of the README and its contents
 
 Everything is ready to run and can be pushed to GitHub.
