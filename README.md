@@ -12,7 +12,7 @@ This is our university group project: a simple chatbot that answers questions ab
 ## Setup
 
 1. Put the folder somewhere on your computer.
-2. Make sure you have `background.jpg` in the same folder as `chat.html` (you can replace it with your own image if you want).
+2. Make sure you have `background.jpg` in the same folder as `chatbot_frontend.html` (you can replace it with your own image if you want).
 3. Open a terminal inside the project folder and run:
 
 ```
@@ -50,7 +50,7 @@ You should see:
 Server listening at http://localhost:3000
 ```
 
-2. Open `chat.html` in your browser.
+2. Open `chatbot_frontend.html` in your browser.
 3. Type a question, click send, and see the chatbot reply.
 4. You can also click the buttons to switch between GPT models (GPT-4O-Mini, GPT-4.1-Mini, GPT-3.5-Turbo).
 
